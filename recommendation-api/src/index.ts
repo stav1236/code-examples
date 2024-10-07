@@ -2,6 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import connectDB from './config/db';
 import recommendationRoutes from './routes/recommendationRoutes';
+import cors from 'cors'
 
 // Load environment variables
 dotenv.config();
@@ -11,6 +12,9 @@ const app = express();
 
 // Connect to the database
 connectDB().then(() => addSampleRecommendations());
+
+//enable cors
+app.use(cors())
 
 // Middleware
 app.use(express.json());

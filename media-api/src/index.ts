@@ -2,6 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import connectDB from './config/db';
 import postRoutes from './routes/postRoutes';
+import cors from 'cors'
 
 // Load environment variables
 dotenv.config();
@@ -11,6 +12,9 @@ const app = express();
 
 // Connect to the database
 connectDB().then(() => addSamplePosts());
+
+//enable cors
+app.use(cors())
 
 // Middleware
 app.use(express.json());
