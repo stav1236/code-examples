@@ -1,4 +1,4 @@
-# [The #1 Mistake Developers Make with Redux and How to Fix It](https://medium.com/@stavmaor1/060ac53e24fa)
+# [The #1 Mistake Developers Make with Redux and How to Fix It](https://medium.com/@stavmaor1/the-1-mistake-developers-make-with-redux-and-how-to-fix-it-060ac53e24fa)
 
 ## About This Article
 
@@ -15,7 +15,7 @@ The code provided in this branch implements an optimized approach to server-stat
 
 ## Link to Article
 
-You can read the full article here: [The #1 Mistake Developers Make with Redux and How to Fix It](https://medium.com/@stavmaor1/060ac53e24fa)
+You can read the full article here:[The #1 Mistake Developers Make with Redux and How to Fix It](https://medium.com/@stavmaor1/the-1-mistake-developers-make-with-redux-and-how-to-fix-it-060ac53e24fa)
 
 ## How to Run the Code
 
