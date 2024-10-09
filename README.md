@@ -7,7 +7,7 @@ Every branch in this repository corresponds to a different article, containing t
 
 Below is a list of articles and their corresponding branches:
 
-- [Article 1: The #1 Mistake Developers Make with Redux and How to Fix It](https://medium.com/@stavmaor1/060ac53e24fa) - Branch: `stop-redux-mistake-react-query`
+- [Article 1: The #1 Mistake Developers Make with Redux and How to Fix It](https://medium.com/@stavmaor1/the-1-mistake-developers-make-with-redux-and-how-to-fix-it-060ac53e24fa) - Branch: `stop-redux-mistake-react-query`
 
 More articles will be added as they are published.
 
